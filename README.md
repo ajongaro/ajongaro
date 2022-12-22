@@ -7,3 +7,5 @@ Completion expected in April, 2023. Connect with me on [LinkedIn](https://www.li
 - 🔭 Currently writing applications with Ruby, Rails, PostgreSQL, HTML, and CSS
 - 📖 I love reading about philosophy, mindfulness, and everything from  software to cacti cultivation
 - 💬 Tell me your favorite vim hotkeys, project ideas, and anything you're passionate about sharing
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajongaro)](https://github.com/anuraghazra/github-readme-stats)

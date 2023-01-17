@@ -4,6 +4,6 @@ Currently studying back-end software engineering at Turing School of Software & 
 Completion expected in April, 2023. Connect with me on [LinkedIn](https://www.linkedin.com/in/ajongaro)!
 
 - 🌱 I've spent the last 7 years making videos, writing, and building on the [web](https://www.breakthetwitch.com)
-- 🔭 Currently writing applications with Ruby, Rails, PostgreSQL, HTML, CSS and Exploring Python + Rust
+- 🔭 Currently writing applications with Ruby, Rails, PostgreSQL, HTML, CSS and Exploring Python/JS
 - 📖 I love reading about philosophy, mindfulness, and everything from  software to cacti cultivation
 - 💬 Tell me your favorite vim motions, project ideas, and anything you're passionate about sharing

@@ -1,4 +1,3 @@
-## 👋 Hi there, I'm Anthony
 I'm a software engineer with a background in creative entrepreneurship, writing, and nonprofit marketing.
 Currently studying back-end software engineering at Turing School of Software & Design's ACCET-accredited program.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ajongaro)!

@@ -1,6 +1,6 @@
 ![](banner.jpg)
 
-I'm a software engineer with a background in creative entrepreneurship, writing, and nonprofit marketing.
+I'm a software engineer with a background in creative entrepreneurship, writing, and nonprofit marketing leadership.
 Currently studying back-end software engineering at Turing School of Software & Design's ACCET-accredited program.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ajongaro)!
 
